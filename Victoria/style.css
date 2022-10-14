@@ -1,0 +1,29 @@
+html{
+    /* width: 992px;
+    height: 1165px; */
+    background-color: #87805E;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#page_heading{
+    margin-top: 4%;
+    font-size: 50px;
+    color: hsla(212, 94%, 63%, 0.85);
+}
+#description {
+    color: whitesmoke;
+}
+.characteristic{
+    color: yellow;
+}
+section>header{
+    color: hsla(212, 94%, 63%, 0.85);
+}
+#classes{
+    color: whitesmoke;
+
+}
+li>a:visited{
+    color: red;
+}
